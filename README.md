@@ -12,7 +12,7 @@ Shows the progress and the remaining TODOs of the API description.
 - [X] Projects
 - [X] Passwords
 - [X] My Passwords
-- [ ] Favorites
+- [X] Favorites
 - [ ] Users
 - [ ] Groups
 - [ ] Passwords generator
