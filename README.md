@@ -13,7 +13,7 @@ Shows the progress and the remaining TODOs of the API description.
 - [X] Passwords
 - [X] My Passwords
 - [X] Favorites
-- [ ] Users
+- [X] Users
 - [ ] Groups
 - [X] Passwords generator
 - [X] Version
