@@ -14,6 +14,6 @@ Shows the progress and the remaining TODOs of the API description.
 - [X] My Passwords
 - [X] Favorites
 - [X] Users
-- [ ] Groups
+- [X] Groups
 - [X] Passwords generator
 - [X] Version
